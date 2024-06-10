@@ -1,4 +1,4 @@
-# untitled
+# Quran App - FLutter
 
 A new Flutter project.
 
